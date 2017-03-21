@@ -1,12 +1,14 @@
 # Intro to SQL
 
-### Domain Model Seamless!
+### Domain Model Seamless - Post Lecture Challenge
 
-A user logs on with email and password
-A user browses Restaurants in their area
-A user views a restaurants's Menu
-A user adds Items from the Menus into
-A user creates an Order
++ A user logs on with email and password
++ A user browses Restaurants in their area
++ A user views a restaurants's Menu
++ A user adds Items from the Menus into
++ A user creates an Order
+
+### Instructions 
 
 1. Install the SQLite Browser if you haven't already [here](http://sqlitebrowser.org/)
 2. Open the SQLite Browser and click 'File -> Open DataBase'
